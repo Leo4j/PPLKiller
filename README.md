@@ -1,5 +1,7 @@
 # PPLKiller
-Tool to bypass LSA Protection (aka Protected Process Light). This is a c# re-write of [PPLKiller by RedCursorSecurityConsulting](https://github.com/RedCursorSecurityConsulting/PPLKiller)
+Tool to bypass LSA Protection (aka Protected Process Light). 
+
+This is a c# re-write of [PPLKiller by RedCursorSecurityConsulting](https://github.com/RedCursorSecurityConsulting/PPLKiller)
 
 I worked on this tool so that I could then create a powershell script out of it.
 
